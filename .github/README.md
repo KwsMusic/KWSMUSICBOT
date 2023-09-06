@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗠𝗨𝗦𝗜𝗖 」──
+    ──「 ᴍ𝒊ss 𝙰ᴛᴛ𝒊ᴛᴜᴅᴇ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg">
+  <img src="https://graph.org/file/5fc8dd23ea909c8818e65.jpg">
 </p>
 
 <p align="center">
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/group1loki"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ALL_QUIZ_TAME"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MUSICBOT_OWNER"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
